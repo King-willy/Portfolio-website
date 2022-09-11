@@ -116,3 +116,14 @@ h5{
     color: rgb(255, 255, 255);
     text-shadow: 0 0 15px rgb(255, 0, 0);
 }
+
+.kin{
+    color: #fff;
+}
+footer{
+    color: black;
+    font-weight: bold ;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
