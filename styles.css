@@ -74,5 +74,45 @@ button{
 }
 
 button:hover{
-    color: rgb(3, 180, 33);
+    color: rgb(0, 228, 38);
+}
+
+.card{
+    width: 200px;
+    height: 230px;
+    display: inline-block;
+    padding: 15x 25px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    cursor: pointer;
+    margin: 10px 15px;
+    background-position: center;
+    background-size: cover;
+}
+.card1{
+    background-image: url(/images/pic.jpg);
+}
+
+.card2{
+        background-image: url(/images/willy.jpg);
+}
+
+.card3{
+    background-image: url(/images/IMG_20211206_162038.jpg);
+}
+
+.card4{
+    background-image: url(/images/back.jpg);
+}
+.card:hover{
+    transform: translateY(-10px);
+}
+h5{
+    color: rgb(29, 9, 214);
+    text-shadow: 0 0 5px #999;
+}
+.card p{
+    font-size: 8px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 15px rgb(255, 0, 0);
 }
