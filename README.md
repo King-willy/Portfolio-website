@@ -1,19 +1,33 @@
-# Portfolio-website
+# MyPortfolio-website
 This is a project where i have created my Portfolio website 
+![Screen Shot 2022-09-11 at 3 28 41 AM](https://user-images.githubusercontent.com/111878902/189633723-a9a3e882-61e0-4281-8d65-8b27f66706eb.png)
 
 ## Authors
+William Mwangi
+## setUp Instruction
+###Requirements
+* [Lang](lang Url)
+ * [Framework](Framework URL)
+ * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
+ * [Testing Platform](Platform URL)
+ ### Getting Files
+ * Fork the repo
+ - Create a new branch in your terminal (git checkout -b improve-feature)
+ - Install the prerequisites
+ - Make appropriate changes in file(s)
+ - Run the server to see the changes
+ - Add the changes and commit them (git commit -am "Improve App")
+ - Push to the branch (git push origin improve-app)
+ - Create a Pull request
+ * Open the folder location on terminal and use the following command to run app:
 
-- [King-willy](https://github.com/King-willy/Portfolio-website)
+ ## How To Run It
+ >  $ pip install -r requirements.txt
+ To install all requirements
 
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
+## Technologies Used
+ 1. HTML
+ 2. CSS
 
 ## Feedback
 
@@ -27,12 +41,6 @@ I'm a student at Moringa School learning how to build a website...
 ## 🛠 Skills
 HTML, CSS...
 
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install Myportfolio
-  cd Myportfolio
-```
+## [License](LICENSE)
+ MIT License
+ Copyright 2022
