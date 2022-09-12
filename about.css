@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Roboto: sans-serif;
+    scroll-behavior: smooth;
+}
+.kin{
+     color:rgb(255, 0, 0);   
+}
+.kin p{
+    color:rgb(255, 255, 255);
+    display: flex;
+    background-color: brown;
+    padding: 10px;
+}
