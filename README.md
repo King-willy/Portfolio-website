@@ -2,6 +2,7 @@
 This is a project where i have created my Portfolio website 
 ![Screen Shot 2022-09-11 at 3 28 41 AM](https://user-images.githubusercontent.com/111878902/189633723-a9a3e882-61e0-4281-8d65-8b27f66706eb.png)
 
+![Screenshot from 2022-09-12 14-52-28](https://user-images.githubusercontent.com/111878902/189646592-7ee95a5a-a95b-4b2c-899d-1dd2e1b934a1.png)
 ## Authors
 William Mwangi
 ## setUp Instruction
